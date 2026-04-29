@@ -1,0 +1,14 @@
+{
+  "name": "big-papa",
+  "version": "1.0.0",
+  "description": "Roblox Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "axios": "^1.0.0",
+    "express": "^4.0.0"
+  }
+}
